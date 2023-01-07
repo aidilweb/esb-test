@@ -6,8 +6,8 @@ Aplikasi dibuat oleh Rizky Aidil Adha dengan tujuan untuk menyelesaikan Coding T
 
 ## Screenshots
 
-![Screenshoot Satu](/screenshoot/satu.png")
-![Screenshoot Dua](/screenshoot/dua.png")
-![Screenshoot Tiga](/screenshoot/tiga.png")
-![Screenshoot Empat](/screenshoot/empat.png")
-![Screenshoot Lima](/screenshoot/lima.png")
+![Screenshoot Satu](/screenshoot/satu.png)
+![Screenshoot Dua](/screenshoot/dua.png)
+![Screenshoot Tiga](/screenshoot/tiga.png)
+![Screenshoot Empat](/screenshoot/empat.png)
+![Screenshoot Lima](/screenshoot/lima.png)
