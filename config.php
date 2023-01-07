@@ -10,8 +10,8 @@ $_from_country      = "Scotland";
 // Database
 $_servername = "localhost";
 $_username   = "root";
-$_password   = "samarinda123";
-$_database     = "test_esb";
+$_password   = "";
+$_database   = "test_esb";
 
 // URL
 $protocol = strpos(strtolower($_SERVER['SERVER_PROTOCOL']), 'https') === FALSE ? 'http' : 'https';
